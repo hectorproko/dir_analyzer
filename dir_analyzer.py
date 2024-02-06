@@ -1,7 +1,8 @@
 import os
 import tkinter as tk
-import matplotlib.pyplot as plt
 from tkinter import filedialog
+import matplotlib.pyplot as plt
+
 
 root = tk.Tk()  # Create a temporary root window
 root.withdraw()  # Hide the root window
